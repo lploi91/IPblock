@@ -26,12 +26,12 @@ images.kiidcloud.com
 www.lookpumrron.com 
 www.morrowadded.com
 minggamevies.com
-krislab. site
-s2cloud-amazon. com
-s3cloud-azure. com
-trendmicrotech. com
-xtools. lol
-msn-microsoft. org
-s3bucket-azure. online
-s3-microsoft. com
-visualstudio-microsoft. com
+krislab.site
+s2cloud-amazon.com
+s3cloud-azure.com
+trendmicrotech.com
+xtools.lol
+msn-microsoft.org
+s3bucket-azure.online
+s3-microsoft.com
+visualstudio-microsoft.com
