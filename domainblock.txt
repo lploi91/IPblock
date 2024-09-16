@@ -53,7 +53,7 @@ www.lookpumrron.com
 yoiroyse.store
 blocktestingto.com
 mirotalk.net
-de.ztec.store:8000
+de.ztec.store
 ipcheck.cloud
 freeconference.io
 regioncheck.net
